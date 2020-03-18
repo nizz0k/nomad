@@ -153,14 +153,60 @@ $heal_img  = get_field('healthy_image');
 </div><!--cont-->
 </section>
 <section>
+<div class="container">
+<div class="row">
+<div class="section title col-md-8">
+<h3>Book your Nomad <span>experience</span> now!</h3>
+</div>
+ <div class="col-md-6">
+</div>
+</div><!--row-->
+</div><!--comt-->
 </section><!--booking-->
 <section>
+<div class="container">
+<div class="row">
+<div class="section title col-md-8">
+<h3>About <span>Nomad</span></h3>
+</div>
+ <div class="col-md-6">
+</div>
+</div><!--row-->
+</div><!--cont-->
 </section><!--About-->
 <section>
+<div class="container">
+<div class="row">
+<div class="section title col-md-8">
+<h3><span>Nomad</span> Institute</h3>
+</div>
+ <div class="col-md-6">
+</div>
+</div><!--row-->
+</div><!--cont-->
 </section><!--Insitute-->
 <section>
+<div class="container">
+<div class="row">
+<div class="section title col-md-8">
+<h3>Makai Apothecary</h3>
+</div>
+ <div class="col-md-6">
+</div>
+</div><!--row-->
+</div><!--cont-->
 </section><!--makai-->
 <section>
+<div class="container">
+<div class="row">
+<div class="section title col-md-8">
+<h3>Contact Us</h3>
+</div>
+ <div class="col-md-6">
+    <?php echo do_shortcode( '[contact-form-7 id="62" title="Nomad Contact"]' ); ?>        
+</div>
+</div><!--row-->
+</div><!--cont-->
 </section><!--Contact-->
 
 </div><!-- #page-wrapper -->
